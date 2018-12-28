@@ -1,12 +1,10 @@
 # Super Mario Bros. in Terminal using Python
-
-## This application is a variant of the Super Mario Bros. game built in python3.
+- This application is a variant of the Super Mario Bros. game built in python3.
 
 ## To run the game type this in your terminal:
 - python3 run.py
 
-- Since the program has hasn't used any extra packages 
-- installing requirements.txt is not required
+- Since the program has hasn't used any extra packages installing requirements.txt is not required
 
 ## Controls:
 - To move right : press d
