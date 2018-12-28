@@ -4,7 +4,7 @@
 ## To run the game type this in your terminal:
 - python3 run.py
 
-- Since the program has hasn't used any extra packages installing requirements.txt is not required
+- Since the program has hasn't used any extra packages installing requirements.txt is not required.
 
 ## Controls:
 - To move right : press d
